@@ -1,5 +1,6 @@
 ## This code is for generating and plotting larval trajectories from release locations (in Zone 3) and daily positions (up to 60 days)
-## By Amanda Xuereb, edited September 2021
+## Larval dispersal data from biophysical model originated from Xue et al. (2008)
+## By Amanda Xuereb, edited October 2021
 
 library(data.table)
 library(tidyverse)
